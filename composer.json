@@ -1,0 +1,26 @@
+{
+    "name": "thincscape/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BairavanD",
+            "email": "pairavan96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Thincscape\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thincscape\\Contact\\ContactServiceProvider"
+            ]
+        }
+    }
+}
