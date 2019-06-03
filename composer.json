@@ -1,6 +1,6 @@
 {
     "name": "thincscape/contact",
-    "description": "This will send email to admin and save contact query in database",
+    "description": "It helps to get queries from users",
     "type": "library",
     "license": "MIT",
     "authors": [
