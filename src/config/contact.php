@@ -1,4 +1,4 @@
 <?php
 return [
-    'send_email_to' => 'pairavan96@gmail.com'
+    'send_email_to' => env('CONTACT_EMAIL', 'pairavan96@gmail.com')
 ];
