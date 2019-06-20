@@ -1,6 +1,6 @@
 {
     "name": "thincscape/contact",
-    "description": "It helps to get queries from users",
+    "description": "It helps to get contact form queries from users",
     "type": "library",
     "license": "MIT",
     "authors": [
